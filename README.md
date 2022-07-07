@@ -1,2 +1,2 @@
 # Translate Below
-Tradutor feito em python com a API do Google Tradutor
+Translator made in python with Google Translate API
